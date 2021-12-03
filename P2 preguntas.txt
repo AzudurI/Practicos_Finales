@@ -1,0 +1,43 @@
+¿Qué sucede cuando a un método le colocamos “void”?
+
+No devuelve nada
+
+¿Qué modificadores de acceso existen en C# y cuáles son sus diferencias?
+
+public, private y protected
+
+public, cualquiera puede acceder y modificarlo. private solo podes acceder a él (fuera de la clase) con un getter y setter. protected las clases que heredan 
+pueden acceder y modificarlo
+
+¿Qué es un constructor? ¿Por qué puedo tener varios?
+
+Es un método dentro de una clase que inicializa variables y posee el mismo nombre que la clase. Pueden existir multiples constructores mientras que no se repitan
+el tipo y cantidad de parametros que reciben.
+
+¿Qué son los getters y los setters? ¿A qué principio de la programación orientada a
+objetos está asociada?¿Hay otras formas de definirlos en C#
+
+Funciones que te permiten modificar y acceder a ciertos atributos de una clase. Encapsulamiento.
+
+private string nombre;
+
+public string getNombre() {
+	return this.nombre;
+	}
+
+public void setNombre(string Nombre) {
+	this.nombre = Nombre;
+	}
+
+o
+
+public string Nombre { get; set; }
+
+o
+
+private string nombre;
+
+public string Nombre {
+	get { return nombre; }
+	set { nombre = value; }
+}

@@ -1,0 +1,13 @@
+C:\prog2projects\Practicos FINAL\practico1-final\bin\Debug\netcoreapp3.1\practico1-final.exe
+C:\prog2projects\Practicos FINAL\practico1-final\bin\Debug\netcoreapp3.1\practico1-final.deps.json
+C:\prog2projects\Practicos FINAL\practico1-final\bin\Debug\netcoreapp3.1\practico1-final.runtimeconfig.json
+C:\prog2projects\Practicos FINAL\practico1-final\bin\Debug\netcoreapp3.1\practico1-final.runtimeconfig.dev.json
+C:\prog2projects\Practicos FINAL\practico1-final\bin\Debug\netcoreapp3.1\practico1-final.dll
+C:\prog2projects\Practicos FINAL\practico1-final\bin\Debug\netcoreapp3.1\practico1-final.pdb
+C:\prog2projects\Practicos FINAL\practico1-final\obj\Debug\netcoreapp3.1\practico1-final.csprojAssemblyReference.cache
+C:\prog2projects\Practicos FINAL\practico1-final\obj\Debug\netcoreapp3.1\practico1-final.AssemblyInfoInputs.cache
+C:\prog2projects\Practicos FINAL\practico1-final\obj\Debug\netcoreapp3.1\practico1-final.AssemblyInfo.cs
+C:\prog2projects\Practicos FINAL\practico1-final\obj\Debug\netcoreapp3.1\practico1-final.csproj.CoreCompileInputs.cache
+C:\prog2projects\Practicos FINAL\practico1-final\obj\Debug\netcoreapp3.1\practico1-final.dll
+C:\prog2projects\Practicos FINAL\practico1-final\obj\Debug\netcoreapp3.1\practico1-final.pdb
+C:\prog2projects\Practicos FINAL\practico1-final\obj\Debug\netcoreapp3.1\practico1-final.genruntimeconfig.cache
